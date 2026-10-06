@@ -18,6 +18,7 @@ HIST = BASE / "historico.json"
 OUT = BASE / "docs"
 TZ = timezone(timedelta(hours=-3))  # Brasília (sem horário de verão)
 QTD = 15
+MIN_FONTES = 2      # notícia precisa ter saído em pelo menos 2 veículos
 JANELA_H = 30          # considera notícias publicadas nas últimas 30 h
 DIAS_HIST = 60         # quanto tempo lembrar o que já foi mostrado
 
@@ -45,6 +46,8 @@ quando onde qual quais quem porque pois mas ou nem tambem ainda hoje ontem amanh
 veja saiba entenda video ao-vivo vivo fotos assista apos-ser""".split())
 
 # Palavras que indicam opinião ou sensacionalismo: frases com elas perdem prioridade no resumo
+RUIDO = set("""horoscopo signo loteria mega sena quina lotofacil resultado sorteio cupom promocao desconto
+onde assistir escalacao palpite receita bbb fazenda novela capitulo""".split())
 OPINIAO = set("""absurdo absurda chocante polemico polemica vergonha vergonhoso escandalo escandaloso
 incrivel inacreditavel bizarro bizarra lamentavel brilhante desastre desastroso humilha humilhacao
 detona arrasa surreal terrivel pessimo otimo fantastico genial""".split())
@@ -112,10 +115,19 @@ def ler_feed(nome, url):
         if not link.strip():
             l = el.find(A + "link")
             link = l.get("href", "") if l is not None else ""
-        desc = limpar(el.findtext("description") or el.findtext(A + "summary") or "")
+        bruto = el.findtext("description") or el.findtext(A + "summary") or ""
+        desc = limpar(bruto)
+        img = ""
+        for tag in ("{http://search.yahoo.com/mrss/}content", "{http://search.yahoo.com/mrss/}thumbnail", "enclosure"):
+            m = el.find(tag)
+            if m is not None and m.get("url") and "image" in (m.get("type") or "image") :
+                img = m.get("url"); break
+        if not img:
+            m = re.search(r'<img[^>]+src="([^"]+)"', bruto + (el.findtext("{http://purl.org/rss/1.0/modules/content/}encoded") or ""))
+            img = m.group(1) if m else ""
         if not titulo or not link:
             continue
-        out.append({"fonte": nome, "titulo": titulo, "link": link.strip(), "desc": desc, "data": data_item(el)})
+        out.append({"fonte": nome, "titulo": titulo, "link": link.strip(), "desc": desc, "img": img, "data": data_item(el)})
     return out
 
 
@@ -216,6 +228,8 @@ def main():
     noticias = []
     for g in grupos:
         titulo, resumo, fontes = resumir(g)
+        if len(fontes) < MIN_FONTES or tokens(titulo) & RUIDO:
+            continue
         tk = g["tk"]
         anterior = max(hist, key=lambda h: similar(tk, set(h["tk"])), default=None)
         s = similar(tk, set(anterior["tk"])) if anterior else 0
@@ -226,6 +240,7 @@ def main():
         noticias.append({
             "titulo": titulo, "resumo": resumo, "fontes": fontes,
             "links": [{"fonte": i["fonte"], "url": i["link"]} for i in g["itens"]],
+            "img": next((i["img"] for i in g["itens"] if i.get("img")), ""),
             "atualizacao": (anterior["data"] if s >= 0.45 else None),
             "_tk": sorted(tk),
         })
@@ -253,55 +268,61 @@ MESES = ["janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho", "a
 
 def pagina(noticias, agora, ok, falhas):
     e = html.escape
-    total_fontes = len(FEEDS)
     cards = []
-    for n in noticias:
-        k = len(n["fontes"])
-        barra = "".join(f'<i class="{"on" if j < k else ""}"></i>' for j in range(min(total_fontes, 8)))
+    for n, item in enumerate(noticias):
+        k = len(item["fontes"])
         upd = ""
-        if n["atualizacao"]:
-            d = datetime.fromisoformat(n["atualizacao"]).strftime("%d/%m")
-            upd = f'<span class="upd">Atualização do caso de {d}</span>'
-        links = ", ".join(f'<a href="{e(l["url"])}" target="_blank" rel="noopener">{e(l["fonte"])}</a>'
-                          for l in sorted({l["fonte"]: l for l in n["links"]}.values(), key=lambda x: x["fonte"]))
-        cards.append(f"""<article>
-  <div class="cob" title="Cobertura: {k} de {total_fontes} veículos"><span class="meter">{barra}</span><span>{k} {'veículo' if k == 1 else 'veículos'}</span></div>
-  {upd}<h2>{e(n["titulo"])}</h2>
-  <p>{e(n["resumo"])}</p>
-  <footer>Leia em {links}</footer>
+        if item["atualizacao"]:
+            upd = f'<span class="upd">Atualização · caso de {datetime.fromisoformat(item["atualizacao"]).strftime("%d/%m")}</span>'
+        img = f'<img src="{e(item["img"])}" alt="" loading="lazy" onerror="this.remove()">' if item["img"] else ""
+        fontes = sorted({l["fonte"]: l for l in item["links"]}.values(), key=lambda x: x["fonte"])
+        links = "".join(f'<a href="{e(l["url"])}" target="_blank" rel="noopener">{e(l["fonte"])}</a>' for l in fontes)
+        cards.append(f"""<article class="{'lead' if n == 0 else ''}">
+  <div class="foto">{img}</div>
+  <div class="txt">{upd}<h2><a href="{e(fontes[0]['url'])}" target="_blank" rel="noopener">{e(item["titulo"])}</a></h2>
+  <p>{e(item["resumo"])}</p>
+  <div class="fontes"><b>{k} veículos</b>{links}</div></div>
 </article>""")
-    vazio = '<p class="vazio">Nenhuma notícia nova encontrada nesta edição. Confira se os feeds estão no ar em noticias.py.</p>'
+    vazio = '<p class="nota">Nenhuma notícia nova nesta edição.</p>'
     data_ext = f"{DIAS[agora.weekday()].capitalize()}, {agora.day} de {MESES[agora.month - 1]}"
-    aviso = f'<p class="nota">Fora do ar nesta edição: {e(", ".join(f.split(":")[0] for f in falhas))}.</p>' if falhas else ""
+    aviso = f'<p class="nota">Fora do ar hoje: {e(", ".join(f.split(":")[0] for f in falhas))}.</p>' if falhas else ""
     return f"""<!doctype html>
 <html lang="pt-BR"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Notícias de {agora.strftime('%d/%m')}</title>
 <style>
-:root{{--bg:#E9EEF2;--ink:#17222D;--sub:#55687A;--line:#C9D3DC;--sol:#E3A62F;--sol-ink:#6A4806;--off:#D3DCE4;
+:root{{--bg:#F3F5F8;--card:#FFF;--ink:#14202B;--sub:#5D6E7E;--line:#DDE3E9;--sol:#F0A830;--sky:#2F6FB3;
   box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}}
-@media (prefers-color-scheme:dark){{:root{{--bg:#141B22;--ink:#E4EAF0;--sub:#93A4B5;--line:#2A3540;--sol:#E8B54A;--sol-ink:#F2D08A;--off:#2A3540}}}}
+@media (prefers-color-scheme:dark){{:root{{--bg:#0F151B;--card:#18212A;--ink:#E7EDF3;--sub:#93A3B3;--line:#26313C;--sky:#7FB2EA}}}}
 *{{box-sizing:inherit}}
 body{{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}}
-main{{max-width:40rem;margin:0 auto;padding:2.2rem 1.15rem 3rem}}
-header.top{{border-bottom:3px solid var(--ink);padding-bottom:1rem;margin-bottom:.4rem}}
-header.top h1{{font:600 2.3rem/1.05 Charter,"Iowan Old Style","Palatino Linotype",Georgia,serif;margin:0;letter-spacing:-.01em}}
-header.top p{{margin:.45rem 0 0;color:var(--sub);font-size:.92rem}}
-article{{padding:1.35rem 0;border-bottom:1px solid var(--line)}}
-h2{{font:600 1.24rem/1.3 Charter,"Iowan Old Style","Palatino Linotype",Georgia,serif;margin:.45rem 0 .5rem}}
-article p{{margin:0;font-size:.98rem}}
-.cob{{display:flex;align-items:center;gap:.55rem;font-size:.8rem;color:var(--sub)}}
-.meter{{display:flex;gap:3px}}.meter i{{width:14px;height:5px;border-radius:1px;background:var(--off)}}.meter i.on{{background:var(--sol)}}
-.upd{{display:inline-block;margin-top:.5rem;font-size:.8rem;font-weight:600;color:var(--sol-ink);border-left:3px solid var(--sol);padding-left:.45rem}}
-footer{{margin-top:.6rem;font-size:.83rem;color:var(--sub)}}
-a{{color:inherit;text-underline-offset:2px}}a:focus-visible{{outline:2px solid var(--sol);outline-offset:2px}}
-.nota,.vazio{{color:var(--sub);font-size:.85rem;margin-top:1.4rem}}
+main{{max-width:46rem;margin:0 auto;padding:1.6rem 1rem 3rem}}
+.top{{padding:1.4rem 1.3rem;border-radius:20px;margin-bottom:1.2rem;color:#fff;
+  background:linear-gradient(135deg,#1C3B5E 0%,#2F6FB3 55%,#F0A830 130%)}}
+.top small{{opacity:.85;font-size:.85rem}}
+.top h1{{font:700 2.1rem/1.1 Charter,"Iowan Old Style",Georgia,serif;margin:.2rem 0 .4rem}}
+.top p{{margin:0;opacity:.9;font-size:.9rem}}
+article{{display:grid;grid-template-columns:1fr 6.5rem;gap:1rem;background:var(--card);border-radius:16px;padding:1rem;margin-bottom:.8rem;border:1px solid var(--line)}}
+.foto{{order:2}}.foto img{{width:100%;aspect-ratio:1;object-fit:cover;border-radius:12px;display:block;background:var(--line)}}
+.foto:empty{{display:none}}article:has(.foto:empty){{grid-template-columns:1fr}}
+article.lead{{grid-template-columns:1fr;padding:0;overflow:hidden}}
+.lead .foto{{order:0}}.lead .foto img{{aspect-ratio:16/9;border-radius:0}}.lead .txt{{padding:0 1.1rem 1.1rem}}
+.lead h2{{font-size:1.55rem}}
+h2{{font:650 1.12rem/1.3 Charter,"Iowan Old Style",Georgia,serif;margin:.2rem 0 .45rem}}
+h2 a{{color:inherit;text-decoration:none}}h2 a:hover{{color:var(--sky)}}
+.txt p{{margin:0;font-size:.95rem;color:var(--ink);opacity:.88}}
+.fontes{{display:flex;flex-wrap:wrap;gap:.35rem;margin-top:.7rem;font-size:.75rem}}
+.fontes b{{color:var(--sol);font-weight:700;margin-right:.2rem;align-self:center}}
+.fontes a{{color:var(--sub);text-decoration:none;border:1px solid var(--line);border-radius:999px;padding:.12rem .55rem}}
+.upd{{display:inline-block;font-size:.75rem;font-weight:600;color:#fff;background:var(--sky);border-radius:999px;padding:.12rem .6rem}}
+a:focus-visible{{outline:2px solid var(--sol);outline-offset:2px}}
+.nota{{color:var(--sub);font-size:.82rem;text-align:center}}
 </style></head><body><main>
-<header class="top"><h1>{data_ext}</h1>
-<p>{len(noticias)} notícias, ordenadas por quantos veículos as noticiaram. Edição das 7:30, lida em {ok} veículos de linhas editoriais diferentes.</p></header>
+<header class="top"><small>Edição das 7:30</small><h1>{data_ext}</h1>
+<p>{len(noticias)} notícias que saíram em vários veículos, lidas em {ok} fontes de linhas editoriais diferentes.</p></header>
 {''.join(cards) or vazio}
 {aviso}
-<p class="nota">Os resumos usam apenas os trechos factuais que se repetem entre os veículos. Para opinião e contexto, abra as matérias.</p>
+<p class="nota">Resumos feitos só com os fatos que se repetem entre os veículos.</p>
 </main></body></html>"""
 
 
