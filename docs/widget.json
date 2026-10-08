@@ -1,79 +1,79 @@
 {
- "edicao": "07/10",
+ "edicao": "08/10",
  "total": 15,
  "itens": [
   {
-   "t": "Novo oficializa apoio a Flávio Bolsonaro no 2º turno",
+   "t": "TSE anula votos de Garotinho e abre caminho para eleição de Ruas no 1º turno",
+   "f": 9,
+   "u": false
+  },
+  {
+   "t": "TSE adia julgamento de candidatura de Deltan Dallagnol ao Senado",
    "f": 7,
    "u": false
   },
   {
-   "t": "Resumão diário #2180: Flávio Bolsonaro explica fala sobre mudar a Constituição; Emu é visto correndo em viaduto no RJ; Petrobras e outras petroleiras arrematam 7 áreas de exploração no pré-sal em leilão e mais",
-   "f": 6,
+   "t": "Paes recorrerá ao STF sobre decisão que anulou votos de Garotinho",
+   "f": 4,
    "u": false
   },
   {
-   "t": "Nunes Marques: revisão criminal de Bolsonaro só será analisada após segundo turno",
+   "t": "Podemos oficializa apoio a Flávio Bolsonaro no 2º turno",
+   "f": 3,
+   "u": true
+  },
+  {
+   "t": "O que Flávio Bolsonaro e Lula propõem sobre o Bolsa Família",
    "f": 3,
    "u": false
   },
   {
-   "t": "Justiça homologa plano de recuperação extrajudicial do GPA",
+   "t": "EUA preparam novas acusações contra Maduro e Cilia Flores por tortura de americanos na Venezuela",
    "f": 3,
    "u": false
   },
   {
-   "t": "Lula diz que campanha foi a menos organizada desde 1989",
+   "t": "Lollapalooza 2027 anuncia line-up com Travis Scott, Charli XCX e David Guetta",
    "f": 3,
    "u": false
   },
   {
-   "t": "Durigan diz não entender euforia do mercado após 1º turno",
+   "t": "PF investiga incêndio na UFPE, e reitor estima prejuízo em R$ 100 milhões",
    "f": 3,
    "u": false
   },
   {
-   "t": "Investidores estrangeiros aportam R$ 10,6 bilhões na Bolsa em pregão após 1º turno das eleições",
+   "t": "Plano de ajuste fiscal de Flávio Bolsonaro prevê corte de 2% do PIB, diz jornal",
    "f": 2,
    "u": false
   },
   {
-   "t": "Flávio promete rever split payment da reforma tributária se for eleito",
+   "t": "Em vídeos, Lula diz que Flávio cortará programas sociais e entregará Brasil ao crime",
    "f": 2,
    "u": false
   },
   {
-   "t": "Ao vivo: senadores discutem o fim da escala 6 X 1",
+   "t": "Quem é Douglas Ruas, governador virtualmente eleito do RJ",
    "f": 2,
    "u": false
   },
   {
-   "t": "Israel, o Ocidente, e o 7 de outubro após três anos",
+   "t": "MP denuncia ex-secretária de Meio Ambiente por desmatamento irregular no RN",
    "f": 2,
    "u": false
   },
   {
-   "t": "Debates no segundo turno: datas, o que se sabe e o que falta definir sobre a participação de Lula e Flávio Bolsonaro",
+   "t": "Pix ultrapassa 1 bilhão de chaves cadastradas em setembro, aponta BC",
    "f": 2,
    "u": false
   },
   {
-   "t": "SpaceX busca US$ 40 bilhões para comprar chips da Nvidia",
+   "t": "EUA suspendem Microsoft de programa de green card para funcionários estrangeiros",
    "f": 2,
    "u": false
   },
   {
-   "t": "Lula cede a aliados, grava em selfie e tenta guinada em comunicação digital",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "'Entrevistei Christa Pike há 20 anos e não consigo parar de pensar nela'",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "O que Flávio e Lula propõem sobre a escala 6x1",
+   "t": "Ricardo Nunes articula e diz esperar apoio do MDB a Flávio no 2º turno",
    "f": 2,
    "u": false
   }
