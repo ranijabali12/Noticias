@@ -1,79 +1,79 @@
 {
- "edicao": "10/10",
+ "edicao": "11/10",
  "total": 15,
  "itens": [
   {
-   "t": "José Sarney é internado em UTI após procedimento abdominal",
-   "f": 4,
+   "t": "Nunes Marques atende a pedido da campanha de Flávio e manda suspender canal 'Exército do Lula'",
+   "f": 9,
+   "u": true
+  },
+  {
+   "t": "Trump diz que Ucrânia e Rússia concordaram com 'cessar-fogo energético'",
+   "f": 5,
    "u": false
   },
   {
-   "t": "No RN, Lula diz que 'tesouraço' de Flávio será feito em cima de programas sociais e que candidato do PL 'beija a bandeira dos EUA'",
+   "t": "Corinthians anuncia Clarence Seedorf como novo técnico",
+   "f": 5,
+   "u": false
+  },
+  {
+   "t": "Houthis fazem nova ameaça após ataque contra aeroporto na Arábia Saudita",
+   "f": 5,
+   "u": false
+  },
+  {
+   "t": "O que se sabe sobre a cirurgia do papa Leão para retirar nódulo no pulmão",
+   "f": 5,
+   "u": false
+  },
+  {
+   "t": "Virginia e Vini Jr. terminam namoro",
    "f": 3,
    "u": false
   },
   {
-   "t": "IA da Anthropic envia denúncia falsa sobre homicídio à polícia dos EUA",
+   "t": "Max Verstappen vence GP de Singapura de F1 pela primeira vez",
    "f": 3,
    "u": false
   },
   {
-   "t": "Itália marca para o fim de outubro novo julgamento de extradição de Carla Zambelli",
+   "t": "Telma de Souza, ex-prefeita de Santos, morre aos 82 anos",
    "f": 3,
    "u": false
   },
   {
-   "t": "TSE manda suspender site que oferece criptomoedas por apoio a Flávio",
-   "f": 3,
-   "u": false
-  },
-  {
-   "t": "Presidente palestino adia eleições para setembro de 2027",
+   "t": "Círio de Nazaré: Imagem de Nossa Senhora de Nazaré chega à Praça Santuário",
    "f": 2,
    "u": false
   },
   {
-   "t": "Assista ao JRO1 deste sábado, 10",
+   "t": "‘Nosso compromisso é aprovar fim da escala 6X1 na quarta’, diz Camilo Santana",
    "f": 2,
    "u": false
   },
   {
-   "t": "O que dizem as primeiras pesquisas para presidente no 2º turno",
+   "t": "Em São Paulo, Flávio reforça base política e Lula vai a ato na Paulista",
    "f": 2,
    "u": false
   },
   {
-   "t": "Ministério Público processa Shell por enchentes no RS e pede R$ 541 milhões",
+   "t": "Sidônio Palmeira deixará Secom para ajudar na campanha de Lula",
    "f": 2,
    "u": false
   },
   {
-   "t": "Volta da “TV Globinho”causa comoção nas redes sociais",
+   "t": "Santuário de Aparecida terá missas, consagração e procissão no feriado",
    "f": 2,
    "u": false
   },
   {
-   "t": "Acidente na BR-393, no RJ, deixa cinco mortos e nove feridos",
+   "t": "Sarney segue internado na UTI após cirurgia sem problemas",
    "f": 2,
-   "u": false
+   "u": true
   },
   {
-   "t": "Por que a economia poderia melhorar com Flávio Bolsonaro",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "As propostas de Lula e Flávio Bolsonaro para a Cultura",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Portugal suspende Cristiano Ronaldo",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Terremoto no Panamá deixa pelo menos 27 feridos",
+   "t": "Principal adversário de Netanyahu perdeu três parentes na guerra em Gaza",
    "f": 2,
    "u": false
   }
