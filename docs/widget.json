@@ -1,79 +1,79 @@
 {
- "edicao": "11/10",
+ "edicao": "12/10",
  "total": 15,
  "itens": [
   {
-   "t": "Nunes Marques atende a pedido da campanha de Flávio e manda suspender canal 'Exército do Lula'",
-   "f": 9,
+   "t": "Área técnica do TSE vê riscos, mas não acha fake news no canal ‘Exército do Lula’",
+   "f": 4,
+   "u": false
+  },
+  {
+   "t": "Nossa Senhora Aparecida, padroeira do Brasil e memória viva da fé de um povo",
+   "f": 4,
+   "u": false
+  },
+  {
+   "t": "O que Flávio Bolsonaro e Lula propõem sobre o funcionalismo público",
+   "f": 4,
+   "u": false
+  },
+  {
+   "t": "Aeroporto da capital saudita fecha após ataques houthis; veja vídeo",
+   "f": 3,
+   "u": false
+  },
+  {
+   "t": "Flávio visitará Jair Bolsonaro nesta terça-feira",
+   "f": 3,
+   "u": false
+  },
+  {
+   "t": "Propaganda de Flávio Bolsonaro fica sem áudio na televisão",
+   "f": 3,
+   "u": false
+  },
+  {
+   "t": "Lula e Flávio participam de celebrações católicas no Dia de Nossa Senhora Aparecida",
+   "f": 3,
+   "u": false
+  },
+  {
+   "t": "Ucrânia afirma que a Rússia violou trégua energética de Trump",
+   "f": 3,
+   "u": false
+  },
+  {
+   "t": "Nunes Marques atende campanha de Flávio e tira do ar canal “Exército do Lula”",
+   "f": 3,
    "u": true
   },
   {
-   "t": "Trump diz que Ucrânia e Rússia concordaram com 'cessar-fogo energético'",
-   "f": 5,
-   "u": false
-  },
-  {
-   "t": "Corinthians anuncia Clarence Seedorf como novo técnico",
-   "f": 5,
-   "u": false
-  },
-  {
-   "t": "Houthis fazem nova ameaça após ataque contra aeroporto na Arábia Saudita",
-   "f": 5,
-   "u": false
-  },
-  {
-   "t": "O que se sabe sobre a cirurgia do papa Leão para retirar nódulo no pulmão",
-   "f": 5,
-   "u": false
-  },
-  {
-   "t": "Virginia e Vini Jr. terminam namoro",
+   "t": "Papa Leão XIV será internado nesta terça para cirurgia de emergência no pulmão",
    "f": 3,
-   "u": false
-  },
-  {
-   "t": "Max Verstappen vence GP de Singapura de F1 pela primeira vez",
-   "f": 3,
-   "u": false
-  },
-  {
-   "t": "Telma de Souza, ex-prefeita de Santos, morre aos 82 anos",
-   "f": 3,
-   "u": false
-  },
-  {
-   "t": "Círio de Nazaré: Imagem de Nossa Senhora de Nazaré chega à Praça Santuário",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "‘Nosso compromisso é aprovar fim da escala 6X1 na quarta’, diz Camilo Santana",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Em São Paulo, Flávio reforça base política e Lula vai a ato na Paulista",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Sidônio Palmeira deixará Secom para ajudar na campanha de Lula",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Santuário de Aparecida terá missas, consagração e procissão no feriado",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Sarney segue internado na UTI após cirurgia sem problemas",
-   "f": 2,
    "u": true
   },
   {
-   "t": "Principal adversário de Netanyahu perdeu três parentes na guerra em Gaza",
+   "t": "Tereza Cristina: Gostaria de ser 1º mulher a presidir o Senado",
+   "f": 2,
+   "u": false
+  },
+  {
+   "t": "Ouro fecha em queda com expectativa sobre CPI dos EUA",
+   "f": 2,
+   "u": false
+  },
+  {
+   "t": "Nódulo pulmonar: entenda sintomas da condição que atinge o Papa Leão XIV",
+   "f": 2,
+   "u": false
+  },
+  {
+   "t": "Polícia Civil ainda não recebeu imagens de câmeras de PMs no caso Gustavo Munis",
+   "f": 2,
+   "u": false
+  },
+  {
+   "t": "Musk gastou US$366 mi para ajudar republicanos a manter controle do Congresso dos EUA",
    "f": 2,
    "u": false
   }
