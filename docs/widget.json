@@ -1,79 +1,79 @@
 {
- "edicao": "15/10",
+ "edicao": "16/10",
  "total": 15,
  "itens": [
   {
-   "t": "Canella era patrono político e articulador de organização criminosa, diz PF",
+   "t": "Congresso promulga PEC do fim da escala 6x1 com Lula em clima de campanha",
+   "f": 7,
+   "u": true
+  },
+  {
+   "t": "Redução da maioridade penal: as diferenças nas propostas de Lula e Flávio Bolsonaro",
+   "f": 5,
+   "u": false
+  },
+  {
+   "t": "Futura: Flávio tem 50,8% dos votos válidos no 2º turno; Lula, 49,2%",
+   "f": 5,
+   "u": false
+  },
+  {
+   "t": "Trabalho infantil no país cai 9,2% de 2024 para 2025, aponta IBGE",
    "f": 3,
    "u": false
   },
   {
-   "t": "Brasileiro Rafael Câmara é anunciado como piloto da Haas na F1 em 2027",
-   "f": 3,
-   "u": false
-  },
-  {
-   "t": "Fim da escala 6×1: entenda como foi a tramitação da PEC",
+   "t": "Mr. Olympia Brasil começa nesta sexta-feira (16); veja programação",
    "f": 3,
    "u": true
   },
   {
-   "t": "Operação combate tráfico de drogas escondidas em eletrodomésticos",
-   "f": 3,
+   "t": "Professora aposentada da UFRJ é baleada em assalto na zona sul do Rio",
+   "f": 2,
    "u": false
   },
   {
-   "t": "Deputado, delegado influencer e inspetores de polícia; veja quem são os alvos da operação Unha e Carne da PF",
-   "f": 3,
+   "t": "Leia na íntegra a nova pesquisa CNT/MDA sobre o 2º turno entre Lula e Flávio Bolsonaro",
+   "f": 2,
    "u": false
   },
   {
-   "t": "Fim da escala 6x1 é 'vitória' e dá 'impulso eleitoral' para Lula, destaca imprensa internacional",
-   "f": 3,
+   "t": "Lula chama de “mentira” atribuir crises econômicas a fim da 6 X 1",
+   "f": 2,
    "u": false
   },
   {
-   "t": "Papa Leão XIV apresenta exames normais e recuperação no pulmão, diz boletim",
-   "f": 3,
-   "u": false
-  },
-  {
-   "t": "Trump afirma que execução militar não será transmitida ao vivo",
+   "t": "Papa Leão XIV pede orações após cirurgia de câncer de pulmão",
    "f": 2,
    "u": true
   },
   {
-   "t": "Governo pede fiscalização de seis jogos com mecanismo similar a bet no ECA Digital; veja lista",
+   "t": "Moraes vota para tornar Oswaldo Eustáquio réu por associação criminosa",
    "f": 2,
    "u": false
   },
   {
-   "t": "União paga R$ 244 milhões em dívidas de Estados e municípios em setembro",
+   "t": "Vaticano divulga primeiras imagens do papa desde a cirurgia; Veja",
+   "f": 2,
+   "u": true
+  },
+  {
+   "t": "Anvisa libera uso de produtos da Ypê com lote a partir de novembro de 2025",
    "f": 2,
    "u": false
   },
   {
-   "t": "Globo e afiliadas realizam entrevistas com candidatos ao governo do DF, AM, ES, RN e TO",
+   "t": "Musk apresenta “carro voador” da Tesla que gira no ar e anda de cabeça para baixo",
    "f": 2,
    "u": false
   },
   {
-   "t": "EUA enviam centenas de soldados para a América Latina, diz jornal",
+   "t": "Veja quando o fim da escala 6x1 começa a valer",
    "f": 2,
    "u": false
   },
   {
-   "t": "TSE derruba prazo de 48 horas para uso de canais registrados por campanhas",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Vendas no comércio varejista têm variação de 0,1% em agosto",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Mostra Internacional de Cinema de SP começa nesta quinta-feira",
+   "t": "Espanha é punida pela Fifa por cânticos islamofóbicos em amistoso no Egito",
    "f": 2,
    "u": false
   }
