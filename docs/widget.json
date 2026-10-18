@@ -1,81 +1,81 @@
 {
- "edicao": "17/10",
+ "edicao": "18/10",
  "total": 15,
  "itens": [
   {
-   "t": "Papa Leão XIV terá alta do hospital neste sábado (17), diz Vaticano",
-   "f": 7,
-   "u": true
-  },
-  {
-   "t": "Flávio Bolsonaro marca 16% menos audiência que Lula em entrevista na Globo",
-   "f": 6,
-   "u": true
-  },
-  {
-   "t": "Debate na Band no segundo turno: o que esperar do primeiro confronto entre Lula e Flávio Bolsonaro",
-   "f": 4,
+   "t": "Papa Leão XIV conduz oração no Vaticano um dia após deixar hospital e diz que vai retomar suas atividades",
+   "f": 5,
    "u": false
   },
   {
-   "t": "Rússia acelera ofensiva na Ucrânia; Trump suspende sanções",
+   "t": "França tem 1 morto, mais de 500 policiais feridos e 1.800 presos após protestos",
    "f": 3,
    "u": false
   },
   {
-   "t": "Defesa Civil envia alerta severo de chuva à cidade de São Paulo",
+   "t": "Protestos contra custo de vida se espalham na Europa após manifestações na França",
    "f": 3,
+   "u": false
+  },
+  {
+   "t": "Flávio Bolsonaro calibra tom para atacar Lula em debate, e presidente quer explicação sobre tesouraço",
+   "f": 3,
+   "u": false
+  },
+  {
+   "t": "Filha de FHC, advogados e ex-ministros assinam carta de apoio à reeleição de Lula",
+   "f": 3,
+   "u": false
+  },
+  {
+   "t": "VÍDEO: manifestante é atropelado em ato pró-Lula em BH; motorista é preso",
+   "f": 2,
+   "u": false
+  },
+  {
+   "t": "Incêndio em base militar canadense deixa mortos e feridos",
+   "f": 2,
+   "u": false
+  },
+  {
+   "t": "Unicamp 2027: candidatos têm 5 horas para fazer o exame da 1ª fase do vestibular",
+   "f": 2,
+   "u": false
+  },
+  {
+   "t": "Jorge Ben Jor reúne mais de 50 mil pessoas com show único em SP; veja fotos",
+   "f": 2,
+   "u": false
+  },
+  {
+   "t": "Trump relaciona imigração por protestos violentos na França",
+   "f": 2,
+   "u": false
+  },
+  {
+   "t": "Vox Brasil aponta Lula à frente de Flávio Bolsonaro no 2º turno",
+   "f": 2,
    "u": true
   },
   {
-   "t": "Base da PM é atacada a tiros após ação policial com dois mortos em Guarujá",
+   "t": "Paolla Oliveira é coroada rainha de bateria da Imperatriz Leopoldinense",
    "f": 2,
    "u": false
   },
   {
-   "t": "Datafolha: 51% apoiam fim da reeleição para presidente e governadores",
+   "t": "Cortes em auxílios sociais podem gerar retração em cidades do interior",
    "f": 2,
    "u": false
   },
   {
-   "t": "80% querem maioridade penal aos 16 anos, diz Datafolha",
+   "t": "Iate com piscina de 50 metros e toboáguas: imagens de satélite revelam o centro de lazer secreto de Kim Jong Un",
    "f": 2,
    "u": false
   },
   {
-   "t": "Ana Maria Braga revela que já fez aborto: 'Achava que não tinha outro caminho'",
+   "t": "Brasileirão: Fluminense e Santos têm focos distintos em confronto",
    "f": 2,
    "u": false
-  },
-  {
-   "t": "Reitor da PUCPR morre em acidente nos Estados Unidos",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Lei seca no 2º turno: entenda as regras para venda e consumo de bebidas nas eleições 2026",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "'Óculos pervertidos': versão sem câmera poderá salvar o produto da Meta?",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Mirassol vence o Internacional e se distancia do Z-4",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Bolívia recebe primeira visita de Estado de um presidente chileno em 71 anos",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "A nova pesquisa Datafolha sobre Lula x Flávio Bolsonaro",
-   "f": 2,
-   "u": true
   }
  ]
 }
