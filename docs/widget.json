@@ -1,79 +1,79 @@
 {
- "edicao": "20/10",
+ "edicao": "21/10",
  "total": 15,
  "itens": [
   {
-   "t": "Como Flávio Bolsonaro aplicou o 'manual Trump' contra Lula no debate da Band",
+   "t": "Flávio tem 45% contra 44% de Lula no 2º turno, diz Quaest",
+   "f": 5,
+   "u": true
+  },
+  {
+   "t": "Quaest: campanha de Lula explora aumento de rejeição de Flávio",
    "f": 4,
    "u": false
   },
   {
-   "t": "Reino Unido envia caças para ajudar a proteger a Arábia Saudita",
+   "t": "Flávio tem 51,1% dos votos válidos, contra 48,9% de Lula, diz Futura",
+   "f": 4,
+   "u": true
+  },
+  {
+   "t": "Confira a agenda dos presidenciáveis nesta quarta-feira (21)",
    "f": 3,
    "u": false
   },
   {
-   "t": "Entenda por que locais de votação foram alterados no 2º turno",
+   "t": "Kassio Nunes diz que TSE não vai proibir canais de WhatsApp 48 horas antes da eleição",
    "f": 3,
    "u": false
   },
   {
-   "t": "México suspende importação de frango do Brasil após surto de doença aviária",
+   "t": "Como anda a saúde do papa Leão XIV após a cirurgia para tratar câncer de pulmão",
    "f": 3,
-   "u": false
+   "u": true
   },
   {
-   "t": "Justiça decreta fim da recuperação judicial da Americanas",
-   "f": 3,
-   "u": false
-  },
-  {
-   "t": "Secretário de Queimados, no Rio, morre baleado em abordagem da PM",
-   "f": 3,
-   "u": false
-  },
-  {
-   "t": "Meta presta informações ao TSE e diz tratar Lula e Flávio igualmente",
+   "t": "Justiça de SP aprova recuperação judicial do Grupo Casas Bahia",
    "f": 2,
    "u": false
   },
   {
-   "t": "Vazamento expõe acesso a 58 mil câmeras do Smart Sampa em SP",
+   "t": "Por que os protestos violentos são tão comuns na França",
    "f": 2,
    "u": false
   },
   {
-   "t": "Uefa exige explicações da Fifa sobre a presidência de Infantino",
+   "t": "Rússia liberta professor americano que estava sob custódia desde 2022",
    "f": 2,
    "u": false
   },
   {
-   "t": "Entenda o que está por trás da tensão entre Trump e Zelensky",
+   "t": "Governo propõe destinar R$ 12 bilhões de emendas para custear tarifa zero",
+   "f": 2,
+   "u": true
+  },
+  {
+   "t": "Pesquisa Palver mostra Flávio Bolsonaro numericamente à frente de Lula",
+   "f": 2,
+   "u": true
+  },
+  {
+   "t": "Lula sanciona lei que perdoa dívidas e aumenta teto de faturamento de MEIs",
    "f": 2,
    "u": false
   },
   {
-   "t": "Qual é o número de Professora Dorinha (União) para o governo do Tocantins?",
+   "t": "Emissão líquida de poluentes no país cai ao menor nível desde 2012",
    "f": 2,
    "u": false
   },
   {
-   "t": "Governo do RJ afasta três PMs envolvidos na morte de secretário de Queimados",
+   "t": "Associação de restaurantes processa Keeta sobre compra intermediada",
    "f": 2,
    "u": false
   },
   {
-   "t": "O que a campanha de Flávio prepara antes do segundo turno",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Flávio promete restabelecer benefício fiscal do Perse, programa encerrado por Lula",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Eleições 2026: nenhum eleitor pode ser preso a partir desta terça",
+   "t": "Tarcísio demite mais uma vez PM acusado de matar lutador Leandro Lo",
    "f": 2,
    "u": false
   }
