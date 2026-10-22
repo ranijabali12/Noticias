@@ -1,79 +1,79 @@
 {
- "edicao": "21/10",
+ "edicao": "22/10",
  "total": 15,
  "itens": [
   {
-   "t": "Flávio tem 45% contra 44% de Lula no 2º turno, diz Quaest",
-   "f": 5,
+   "t": "Campanha de Flávio Bolsonaro escala Deltan Dallagnol para analisar documentos de quebra de sigilo de Lula",
+   "f": 6,
    "u": true
   },
   {
-   "t": "Quaest: campanha de Lula explora aumento de rejeição de Flávio",
-   "f": 4,
-   "u": false
-  },
-  {
-   "t": "Flávio tem 51,1% dos votos válidos, contra 48,9% de Lula, diz Futura",
-   "f": 4,
-   "u": true
-  },
-  {
-   "t": "Confira a agenda dos presidenciáveis nesta quarta-feira (21)",
+   "t": "Lula pode ser 'varrido' em breve por onda de direita na América Latina, diz revista americana",
    "f": 3,
    "u": false
   },
   {
-   "t": "Kassio Nunes diz que TSE não vai proibir canais de WhatsApp 48 horas antes da eleição",
+   "t": "Arrecadação federal sobe para R$ 239 bilhões em setembro, novo recorde para o mês",
    "f": 3,
    "u": false
   },
   {
-   "t": "Como anda a saúde do papa Leão XIV após a cirurgia para tratar câncer de pulmão",
+   "t": "Meta enfrenta ação coletiva na Austrália por supostos danos a crianças",
    "f": 3,
-   "u": true
+   "u": false
   },
   {
-   "t": "Justiça de SP aprova recuperação judicial do Grupo Casas Bahia",
+   "t": "Boulos e Camilo entregam sigilos de Lula ao TSE e desafiam Flávio",
    "f": 2,
    "u": false
   },
   {
-   "t": "Por que os protestos violentos são tão comuns na França",
+   "t": "Terremoto de magnitude 7 atinge o Tibete, na China",
    "f": 2,
    "u": false
   },
   {
-   "t": "Rússia liberta professor americano que estava sob custódia desde 2022",
+   "t": "Europa terá nova onda de greves em meio à escalada dos protestos",
    "f": 2,
    "u": false
   },
   {
-   "t": "Governo propõe destinar R$ 12 bilhões de emendas para custear tarifa zero",
-   "f": 2,
-   "u": true
-  },
-  {
-   "t": "Pesquisa Palver mostra Flávio Bolsonaro numericamente à frente de Lula",
-   "f": 2,
-   "u": true
-  },
-  {
-   "t": "Lula sanciona lei que perdoa dívidas e aumenta teto de faturamento de MEIs",
+   "t": "Vale, Samarco, CSN, Gerdau e Ternium levam 320 mil m³/dia de gás da União",
    "f": 2,
    "u": false
   },
   {
-   "t": "Emissão líquida de poluentes no país cai ao menor nível desde 2012",
+   "t": "Ex-candidata à Presidência do Equador Luisa González é presa",
    "f": 2,
    "u": false
   },
   {
-   "t": "Associação de restaurantes processa Keeta sobre compra intermediada",
+   "t": "Justiça nega recurso e mantém absolvição de 14 PMs por homicídio em SP",
    "f": 2,
    "u": false
   },
   {
-   "t": "Tarcísio demite mais uma vez PM acusado de matar lutador Leandro Lo",
+   "t": "Flávio Bolsonaro fez festa com lobistas e prostitutas durante pandemia, diz revista",
+   "f": 2,
+   "u": false
+  },
+  {
+   "t": "Justiça da Bahia condena o 4º envolvido na morte de Mãe Bernadete",
+   "f": 2,
+   "u": false
+  },
+  {
+   "t": "Mais um corpo é encontrado na marginal Tietê, em São Paulo",
+   "f": 2,
+   "u": false
+  },
+  {
+   "t": "MPF amplia ofensiva contra Meta no período eleitoral",
+   "f": 2,
+   "u": false
+  },
+  {
+   "t": "Veja quem tem direito e como vai funcionar o perdão de dívidas para MEIs",
    "f": 2,
    "u": false
   }
