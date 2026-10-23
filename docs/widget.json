@@ -1,79 +1,79 @@
 {
- "edicao": "22/10",
+ "edicao": "23/10",
  "total": 15,
  "itens": [
   {
-   "t": "Campanha de Flávio Bolsonaro escala Deltan Dallagnol para analisar documentos de quebra de sigilo de Lula",
-   "f": 6,
+   "t": "Ipespe/Abrapel: Flávio Bolsonaro tem 50,5% dos votos válidos no 2º turno, e Lula, 49,5%",
+   "f": 8,
    "u": true
   },
   {
-   "t": "Lula pode ser 'varrido' em breve por onda de direita na América Latina, diz revista americana",
+   "t": "Debate da Globo: regras, horário e checagem do último embate entre Lula e Flávio",
+   "f": 5,
+   "u": true
+  },
+  {
+   "t": "Netanyahu ordena fechamento total da Cisjordânia após ataque contra israelenses",
+   "f": 4,
+   "u": false
+  },
+  {
+   "t": "Melania consegue cessar-fogo para levar ajuda a cidade ucraniana ocupada pela Rússia, diz Casa Branca",
    "f": 3,
    "u": false
   },
   {
-   "t": "Arrecadação federal sobe para R$ 239 bilhões em setembro, novo recorde para o mês",
+   "t": "BYD avança na nacionalização e se prepara para dobrar capacidade no Brasil",
    "f": 3,
    "u": false
   },
   {
-   "t": "Meta enfrenta ação coletiva na Austrália por supostos danos a crianças",
+   "t": "Eleições 2026 no exterior: quem pode votar no segundo turno e quais são as regras",
    "f": 3,
    "u": false
   },
   {
-   "t": "Boulos e Camilo entregam sigilos de Lula ao TSE e desafiam Flávio",
+   "t": "Meghan Markle se diz profundamente abalada por acusações contra o pai",
+   "f": 3,
+   "u": false
+  },
+  {
+   "t": "TSE dá 24h para Meta e X explicarem distribuição de material político",
+   "f": 3,
+   "u": false
+  },
+  {
+   "t": "Lula enviará projeto que perdoa dívidas do Simples do setor de eventos",
    "f": 2,
    "u": false
   },
   {
-   "t": "Terremoto de magnitude 7 atinge o Tibete, na China",
+   "t": "A água-viva imortal que pode inspirar tratamentos para doenças ligadas ao envelhecimento",
    "f": 2,
    "u": false
   },
   {
-   "t": "Europa terá nova onda de greves em meio à escalada dos protestos",
+   "t": "Grécia aprova proibição de redes sociais para menores de 15 anos",
    "f": 2,
    "u": false
   },
   {
-   "t": "Vale, Samarco, CSN, Gerdau e Ternium levam 320 mil m³/dia de gás da União",
+   "t": "Ônibus gratuito no dia da eleição: veja as regras para o 2º turno de 2026",
    "f": 2,
    "u": false
   },
   {
-   "t": "Ex-candidata à Presidência do Equador Luisa González é presa",
+   "t": "Gestão Tarcísio assina contrato da PPP para nova sede no centro",
    "f": 2,
    "u": false
   },
   {
-   "t": "Justiça nega recurso e mantém absolvição de 14 PMs por homicídio em SP",
+   "t": "Segundo turno: tudo o que você precisa saber para votar domingo",
    "f": 2,
    "u": false
   },
   {
-   "t": "Flávio Bolsonaro fez festa com lobistas e prostitutas durante pandemia, diz revista",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Justiça da Bahia condena o 4º envolvido na morte de Mãe Bernadete",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Mais um corpo é encontrado na marginal Tietê, em São Paulo",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "MPF amplia ofensiva contra Meta no período eleitoral",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Veja quem tem direito e como vai funcionar o perdão de dívidas para MEIs",
+   "t": "Ataque a tiros em igreja na Jordânia deixa ao menos 7 mortos",
    "f": 2,
    "u": false
   }
