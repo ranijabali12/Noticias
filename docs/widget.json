@@ -1,79 +1,79 @@
 {
- "edicao": "27/10",
+ "edicao": "28/10",
  "total": 15,
  "itens": [
   {
-   "t": "Argentina nega a entrada de Flávio Bolsonaro no país",
+   "t": "Flávio Bolsonaro aterrissa nos EUA após fugir pela Argentina",
+   "f": 7,
+   "u": false
+  },
+  {
+   "t": "Acidente entre trens deixa ao menos 64 mortos na Espanha",
+   "f": 6,
+   "u": false
+  },
+  {
+   "t": "Jair Bolsonaro pede a Moraes autorização para receber visita de presidente do PL",
    "f": 5,
    "u": false
   },
   {
-   "t": "Dino manda PF investigar suspeita de financiamento estrangeiro à campanha de Flávio Bolsonaro",
+   "t": "O que se sabe sobre a fuga de Flávio Bolsonaro",
    "f": 5,
-   "u": false
+   "u": true
   },
   {
-   "t": "Flávio Bolsonaro descumpre determinação de Moraes e não entrega passaporte à PF",
+   "t": "Flávio Bolsonaro chega aos EUA e desembarca com a família",
    "f": 4,
    "u": false
   },
   {
-   "t": "Deputado do Rio volta a ser alvo da PF por suspeita de fraudes",
+   "t": "Lula critica Flávio, e aliados falam em 'perseguição'",
+   "f": 4,
+   "u": false
+  },
+  {
+   "t": "TSE decide que federação PSOL-Rede cumpriu cláusula de barreira",
    "f": 3,
    "u": false
   },
   {
-   "t": "Concentração de gases do efeito estufa atingem níveis recordes",
+   "t": "TCU propõe alíquota de 11,3% para nova contribuição da reforma tributária em 2027, acima do esperado",
    "f": 3,
    "u": false
   },
   {
-   "t": "Trump critica eleições no Brasil, mas diz que gosta de Lula",
+   "t": "STF nega ter ordenado buscas em endereços de Flávio Bolsonaro",
    "f": 3,
    "u": false
   },
   {
-   "t": "Flávio Bolsonaro diz ter sido intimado pela PF a entregar passaportes por ordem de Moraes",
+   "t": "Russell Brand diz que amigos o abandonaram após acusações de crimes sexuais",
    "f": 2,
    "u": false
   },
   {
-   "t": "Noah Wyle, de 'The Pitt', é eleito o homem mais sexy do mundo em 2026",
+   "t": "Polícia pede prisão de homem que se masturbou em academia da zona Sul de SP",
    "f": 2,
    "u": false
   },
   {
-   "t": "Aos 19 anos, Soso Careca anuncia gravidez de MC Paiva; veja",
+   "t": "Câmara criará GT para regulamentar propaganda eleitoral na internet",
    "f": 2,
    "u": false
   },
   {
-   "t": "Como Harry Kane ganhou a Bola de Ouro sem conquistar os principais títulos do ano",
+   "t": "ONG internacional aponta falhas na investigação da Operação Contenção",
    "f": 2,
    "u": false
   },
   {
-   "t": "Jordânia diz que matou mais de 20 militantes do Estado Islâmico na Síria",
+   "t": "Governo Trump vai conceder vistos a Flávio Bolsonaro e sua família, diz imprensa dos EUA",
    "f": 2,
    "u": false
   },
   {
-   "t": "Dívidas das famílias com problema de pagamento atingem maior nível desde 2012, diz BC",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "O hino composto por dom Pedro 1º que Lula transformou em canção da vitória",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Entenda o que esperar do mercado financeiro após reeleição de Lula",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Jay-Z será a atração principal do show do intervalo do Super Bowl de 2027",
+   "t": "Xi Jinping parabeniza Lula por reeleição",
    "f": 2,
    "u": false
   }
