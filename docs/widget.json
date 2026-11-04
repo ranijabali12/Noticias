@@ -1,79 +1,79 @@
 {
- "edicao": "03/11",
+ "edicao": "04/11",
  "total": 15,
  "itens": [
   {
-   "t": "Lula viaja a São Paulo para fazer exames de rotina",
+   "t": "PL confirma candidatura de Rogério Marinho à presidência do Senado",
+   "f": 6,
+   "u": false
+  },
+  {
+   "t": "Trump diz que guerra contra Irã contribuiu para derrota republicana nas eleições de meio de mandato",
    "f": 5,
    "u": false
   },
   {
-   "t": "Ameaças de bomba afetam voos e aeroportos na Europa",
+   "t": "Brasil cria 121.305 empregos formais em setembro de 2026",
    "f": 4,
    "u": false
   },
   {
-   "t": "Eleições de meio de mandato nos EUA: o que está em jogo para o governo de Donald Trump",
+   "t": "Senado aprova PEC da Segurança Pública sem redução da maioridade penal",
+   "f": 4,
+   "u": true
+  },
+  {
+   "t": "Bolsas de NY sobem diante de vitória democrata em eleições nos EUA",
+   "f": 4,
+   "u": false
+  },
+  {
+   "t": "Anvisa aprova primeiro medicamento de GLP-1 oral para obesidade",
+   "f": 4,
+   "u": false
+  },
+  {
+   "t": "Janaína Barbosa, ex-apresentadora de TV, morre aos 48 anos",
    "f": 3,
    "u": false
   },
   {
-   "t": "Eleições nos EUA: como apoio a Israel e guerra em Gaza afetam disputa ao Senado",
+   "t": "Quem é Abdul El-Sayed, primeiro muçulmano eleito senador nos EUA",
    "f": 3,
    "u": false
   },
   {
-   "t": "Trump diz que EUA vão cortar ajuda anual de US$ 4 bilhões a Israel",
+   "t": "Após derrota de partido de Trump nas eleições, Irã descarta mudança na política americana",
    "f": 3,
    "u": false
   },
   {
-   "t": "Brasil entrega mapa do caminho para o fim dos combustíveis fósseis",
+   "t": "CNC aciona STF para adiar fim da escala 6×1",
    "f": 3,
    "u": false
   },
   {
-   "t": "Ministro de Lula diz que governo votará PEC da Segurança sem redução da maioridade penal",
+   "t": "Entenda a PEC da Segurança Pública, aprovada no Senado",
    "f": 3,
    "u": false
   },
   {
-   "t": "Mercado eleva projeção para inflação, juros e dólar em 2026",
-   "f": 3,
-   "u": false
-  },
-  {
-   "t": "Governo quer enviar MP do Imposto Seletivo ainda hoje ao Congresso",
-   "f": 3,
-   "u": false
-  },
-  {
-   "t": "Encomendas à indústria nos EUA sobem 1,8% em setembro ante agosto",
+   "t": "Morre Eliana Rocha, atriz de ‘Pé na Cova’, aos 82 anos",
    "f": 2,
    "u": false
   },
   {
-   "t": "Vagas de emprego nos EUA aumentam em 333 mil em setembro",
+   "t": "STM torna Roberto Jefferson réu por uso de documento falso",
    "f": 2,
    "u": false
   },
   {
-   "t": "Veja o que muda com as novas regras para vale-refeição e alimentação",
+   "t": "Flávio Bolsonaro e a internacionalização do cristofascismo",
    "f": 2,
    "u": false
   },
   {
-   "t": "Nova York registra primeira morte por sarampo em 30 anos",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Zambelli pede ajuda de R$ 50 para se manter na Itália",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Mãe de Marina Ruy Barbosa se manifesta após briga da atriz com Luma Costa",
+   "t": "“Onda azul”: o que a vitória dos democratas muda no Congresso dos EUA",
    "f": 2,
    "u": false
   }
