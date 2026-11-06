@@ -1,81 +1,81 @@
 {
- "edicao": "05/11",
+ "edicao": "06/11",
  "total": 15,
  "itens": [
   {
-   "t": "Presidente do Paraguai, Santiago Peña, renuncia após crise bancária; Câmara decide seguir com impeachment",
-   "f": 10,
-   "u": false
-  },
-  {
-   "t": "IBGE abre mais de 800 vagas em MT com salários de até R$ 4,3 mil; saiba mais",
+   "t": "Lula diz que Brasil tem seriedade fiscal e que pobre não vai pagar a conta do ajuste",
    "f": 4,
    "u": false
   },
   {
-   "t": "TSE mantém mandato de mulheres em chapas com fraude à cota no Amapá",
+   "t": "Senado do Paraguai rejeita pedido de Peña para adiar defesa e retoma processo de impeachment",
    "f": 4,
-   "u": false
+   "u": true
   },
   {
-   "t": "Vitória democrata nos EUA não deve aliviar pressão de Trump sobre Brasil, avaliam analistas",
-   "f": 4,
-   "u": false
-  },
-  {
-   "t": "Quem é Santiago Peña, presidente do Paraguai, que renunciou após crise bancária",
+   "t": "Justiça rejeita ação contra Bolsonaro no caso Wal do Açaí",
    "f": 3,
    "u": false
   },
   {
-   "t": "Russell Brand é condenado por estupro e agressão sexual na Inglaterra",
+   "t": "'Quase todo meu dinheiro está preso no banco': brasileiros que foram para o Paraguai são afetados pela crise no país",
    "f": 3,
    "u": false
   },
   {
-   "t": "Cristiano Ronaldo: imprensa repercute adeus pela seleção de Portugal",
-   "f": 3,
-   "u": false
-  },
-  {
-   "t": "‘Feito Pipa’ chega aos cinemas como aposta do Brasil no Oscar 2027",
+   "t": "Lutador de jiu-jítsu é preso em flagrante após agredir duas vizinhas no Rio",
    "f": 2,
    "u": false
   },
   {
-   "t": "Durigan diz que é preciso dar condições para a queda dos juros",
+   "t": "Santiago Peña não comparece a sessão sobre impeachment no Congresso do Paraguai",
    "f": 2,
    "u": false
   },
   {
-   "t": "Web reage a encontro de Arthur Aguiar e Thiago Nigro: “Nem Maíra esperava”",
+   "t": "Enem 2026: o que levar para a prova e como usar a nota",
    "f": 2,
    "u": false
   },
   {
-   "t": "Governo envia ao Congresso MP que regulamenta “imposto do pecado”",
+   "t": "Fabiano Zettel, cunhado de Vorcaro, depõe à PF após oito meses preso",
    "f": 2,
    "u": false
   },
   {
-   "t": "Falsos alertas de bomba geram caos em voos e aeroportos da Europa",
+   "t": "Pai de Meghan Markle é preso por posse de pornografia infantil",
+   "f": 2,
+   "u": true
+  },
+  {
+   "t": "Lando Norris lidera TL1 do GP São Paulo de Fórmula 1; Rafael Câmara estreia",
+   "f": 2,
+   "u": true
+  },
+  {
+   "t": "Concurso do IBGE: edital é publicado e são mais de 27 mil vagas temporárias",
+   "f": 2,
+   "u": true
+  },
+  {
+   "t": "Itália aprovou cidadania de Eduardo, Carlos e Flávio Bolsonaro em 58 dias",
    "f": 2,
    "u": false
   },
   {
-   "t": "Adolescente de 15 anos é apreendido por envolvimento na morte de engenheiro após ato pró-Lula",
+   "t": "Pai de Neymar será o novo CEO do Santos FC",
    "f": 2,
    "u": false
   },
   {
-   "t": "Após tornado, Maringá decreta situação de emergência",
+   "t": "Justiça autoriza volta do funcionamento de três bets no Brasil",
    "f": 2,
    "u": false
   },
   {
-   "t": "Funcionários da CET anunciam greve às vésperas de evento da F1 em SP",
+   "t": "Após derrota em midterms, secretários de Trump enfrentam crises no governo",
    "f": 2,
-   "u": false
+   "u": true
   }
  ]
 }
