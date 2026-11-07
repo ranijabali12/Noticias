@@ -1,81 +1,81 @@
 {
- "edicao": "06/11",
+ "edicao": "07/11",
  "total": 15,
  "itens": [
   {
-   "t": "Lula diz que Brasil tem seriedade fiscal e que pobre não vai pagar a conta do ajuste",
+   "t": "Ex-presidente do Paraguai, Santiago peña, deixa prisão domiciliar e é levado a quartel militar",
+   "f": 7,
+   "u": false
+  },
+  {
+   "t": "Gonet pede ao STF suspensão de todas as ações sobre MP do fim das bets",
+   "f": 5,
+   "u": false
+  },
+  {
+   "t": "Leão XIV pede união na América do Sul em missa na fronteira do Uruguai",
+   "f": 4,
+   "u": true
+  },
+  {
+   "t": "Quem é Pedro Alliana, o novo presidente do Paraguai",
    "f": 4,
    "u": false
   },
   {
-   "t": "Senado do Paraguai rejeita pedido de Peña para adiar defesa e retoma processo de impeachment",
-   "f": 4,
+   "t": "Ataque a tiros na praça principal de Cracóvia, na Polônia, deixa 5 mortos",
+   "f": 3,
    "u": true
   },
   {
-   "t": "Justiça rejeita ação contra Bolsonaro no caso Wal do Açaí",
+   "t": "Enem: saiba o que levar no dia da prova",
    "f": 3,
    "u": false
   },
   {
-   "t": "'Quase todo meu dinheiro está preso no banco': brasileiros que foram para o Paraguai são afetados pela crise no país",
+   "t": "O que é o Ueno Bank e como ele desencadeou a crise que derrubou o presidente do Paraguai",
    "f": 3,
    "u": false
   },
   {
-   "t": "Lutador de jiu-jítsu é preso em flagrante após agredir duas vizinhas no Rio",
+   "t": "Paraguai: 1 milhão de clientes do Ueno Bank já tiveram recursos devolvidos",
    "f": 2,
    "u": false
   },
   {
-   "t": "Santiago Peña não comparece a sessão sobre impeachment no Congresso do Paraguai",
+   "t": "Famosos se despedem do diretor Nilton Travesso em São Paulo",
    "f": 2,
    "u": false
   },
   {
-   "t": "Enem 2026: o que levar para a prova e como usar a nota",
+   "t": "Uruguai retoma compra de frango do Brasil após foco de Newcastle em SC",
    "f": 2,
    "u": false
   },
   {
-   "t": "Fabiano Zettel, cunhado de Vorcaro, depõe à PF após oito meses preso",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Pai de Meghan Markle é preso por posse de pornografia infantil",
+   "t": "Lutador de jiu-jitsu é preso por tentativa de feminicídio no Rio",
    "f": 2,
    "u": true
   },
   {
-   "t": "Lando Norris lidera TL1 do GP São Paulo de Fórmula 1; Rafael Câmara estreia",
-   "f": 2,
-   "u": true
-  },
-  {
-   "t": "Concurso do IBGE: edital é publicado e são mais de 27 mil vagas temporárias",
-   "f": 2,
-   "u": true
-  },
-  {
-   "t": "Itália aprovou cidadania de Eduardo, Carlos e Flávio Bolsonaro em 58 dias",
+   "t": "Enem 2026: candidatos vivem expectativa sobre o tema da redação",
    "f": 2,
    "u": false
   },
   {
-   "t": "Pai de Neymar será o novo CEO do Santos FC",
+   "t": "Cientistas encontram indícios de sangue em dinossauro do Brasil",
    "f": 2,
    "u": false
   },
   {
-   "t": "Justiça autoriza volta do funcionamento de três bets no Brasil",
+   "t": "Papa Leão XIV celebra primeira missa no Uruguai diante de milhares de fiéis",
    "f": 2,
    "u": false
   },
   {
-   "t": "Após derrota em midterms, secretários de Trump enfrentam crises no governo",
+   "t": "Fórmula 1 renova contrato do GP de São Paulo até 2035",
    "f": 2,
-   "u": true
+   "u": false
   }
  ]
 }
