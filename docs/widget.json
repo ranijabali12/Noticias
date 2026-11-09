@@ -1,79 +1,79 @@
 {
- "edicao": "08/11",
+ "edicao": "09/11",
  "total": 15,
  "itens": [
   {
-   "t": "Presidente de Israel escolhe rival de Netanyahu para formar novo governo em Israel",
+   "t": "Fim da 6×1: governo adia decreto de regulamentação para depois da viagem de Lula",
+   "f": 5,
+   "u": false
+  },
+  {
+   "t": "França acusa Irã pelos ataques hacker em refrigeradores de supermercados",
    "f": 4,
    "u": false
   },
   {
-   "t": "Lula vê Enem como “guerra contra retrocesso” e exalta participação feminina",
+   "t": "PGR pede ao Supremo arquivamento do inquérito das fake news",
    "f": 4,
    "u": false
   },
   {
-   "t": "CSN fecha acordo de R$12,7 bi para vender unidade de cimento à chinesa Huaxin",
+   "t": "Pix bate novo recorde com 319,7 milhões de transações em um dia",
    "f": 3,
    "u": false
   },
   {
-   "t": "Papa Leão XIV pede aos homens que tratem com respeito as suas esposas",
+   "t": "Papa Leão XIV encontra vítimas de abusos cometidos por membros do clero na Argentina",
    "f": 3,
    "u": false
   },
   {
-   "t": "Colisão entre trens deixa ao menos 4 mortos e 88 feridos no Egito",
+   "t": "Como o caso do CEO da Nvidia com suposta espiã chinesa impacta o setor de IA",
+   "f": 3,
+   "u": false
+  },
+  {
+   "t": "James Gunn e Peter Safran deixam o comando da DC Studios após quatro anos",
+   "f": 3,
+   "u": false
+  },
+  {
+   "t": "Juiz extingue ação contra deputada eleita que sugeriu demissão de eleitores do PT",
+   "f": 3,
+   "u": false
+  },
+  {
+   "t": "Fux suspende processos contra proibição das bets no Brasil",
    "f": 3,
    "u": true
   },
   {
-   "t": "Dez pessoas morrem após carro capotar e cair em lago em Barra Mansa (RJ)",
+   "t": "Russell Brand é condenado a dez anos de prisão pelos crimes de estupro e assédio",
    "f": 3,
-   "u": false
-  },
-  {
-   "t": "Enem 2026: candidatos precisam chegar antes das 13h ao local da prova",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Enem 2026: estudantes falam sobre sonhos e preparação no 1º dia de prova em Maceió",
-   "f": 2,
    "u": true
   },
   {
-   "t": "Quaest: 81% dizem que Brasil saiu mais dividido das eleições",
+   "t": "Alcolumbre tem encontro com bancada feminina cancelado por falta de quórum",
    "f": 2,
    "u": false
   },
   {
-   "t": "Seleção Brasileira começa a desembarcar em Singapura para amistosos",
+   "t": "Papa Leão 14 ganha estátua no Peru dias antes de visita",
    "f": 2,
    "u": false
   },
   {
-   "t": "“Rei da Sucata”, suspeito de lavar dinheiro para o CV, é preso em SP",
+   "t": "“Idol dos Idols”: saiba como foi o show do Taemin em São Paulo",
    "f": 2,
    "u": false
   },
   {
-   "t": "Defesa Civil diz que kits de emergência não indicam risco: “calma”",
+   "t": "Quem é Jon Vlogs, influencer que preparou pedido de namoro para Ana Castela",
    "f": 2,
    "u": false
   },
   {
-   "t": "Ministro de Netanyahu diz que missão de Israel contra o Irã 'não está concluída'",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Quaest: 62% dos eleitores reprovam fuga de Flávio aos EUA",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Grêmio segura o Atlético-MG em BH e vai à final da Copa do Brasil",
+   "t": "Calendário do IPVA 2027 em SP começa em 11 de janeiro",
    "f": 2,
    "u": false
   }
