@@ -1,79 +1,79 @@
 {
- "edicao": "12/11",
+ "edicao": "13/11",
  "total": 15,
  "itens": [
   {
-   "t": "Jensen Huang: como CEO da Nvidia foi de 'rock star' da IA à saída dramática",
-   "f": 4,
-   "u": false
-  },
-  {
-   "t": "Dino mantém transição para fim da 6 X 1 e flexibiliza folgas",
-   "f": 4,
-   "u": true
-  },
-  {
-   "t": "CEO da Nvidia renuncia após relato de caso com espiã da China",
+   "t": "Senado aprova pacote de ajuste fiscal do governo Lula",
    "f": 3,
    "u": false
   },
   {
-   "t": "Leia a íntegra do comunicado da Nvidia com a renúncia de Jensen Huang",
+   "t": "Ajuste fiscal não é incompatível com promessas do governo Lula 4, diz André Esteves",
+   "f": 3,
+   "u": false
+  },
+  {
+   "t": "Incêndio atinge fábrica de tintas em Salto (SP) e deixa ao menos 9 feridos",
+   "f": 3,
+   "u": true
+  },
+  {
+   "t": "Morre a cantora Claudette Soares, aos 91 anos",
+   "f": 3,
+   "u": false
+  },
+  {
+   "t": "'Há uma guerra entre dois lados no Vaticano em que o abuso sexual se tornou uma arma', diz autor de livro sobre o papa",
    "f": 2,
    "u": false
   },
   {
-   "t": "Terceiro turno",
+   "t": "Salto: fábrica de solventes no interior de SP é atingida por incêndio",
    "f": 2,
    "u": false
   },
   {
-   "t": "Governo estuda novo modelo para concurso público unificado em 2027",
+   "t": "Ex de Bruno Avelar, morto em acidente com Rick, desabafa sobre herança",
    "f": 2,
    "u": false
   },
   {
-   "t": "Fuvest divulga notas de corte da 1ª fase do vestibular 2027; veja maiores pontuações",
+   "t": "O que se sabe sobre a falha mundial de serviços da Microsoft",
    "f": 2,
    "u": false
   },
   {
-   "t": "6×1: Dino contraria empresários e mantém início da nova escala em 16 de dezembro",
+   "t": "Funcionários da Kalunga sofrem ataque a tiros após expediente em Santos",
    "f": 2,
    "u": false
   },
   {
-   "t": "Dino devolve ao STF ação sobre exploração de jogos de azar",
+   "t": "Quem é Léo Fuchs e por que ele reunirá tantos famosos em seu casamento",
    "f": 2,
    "u": false
   },
   {
-   "t": "Justiça proíbe Uber de cobrar taxa para motoristas aceitarem corridas no Brasil",
+   "t": "Sheinbaum diz que não há mais nenhuma caravana de imigrantes rumo aos EUA",
    "f": 2,
    "u": false
   },
   {
-   "t": "Quem é Colette Kress, nova CEO da Nvidia",
+   "t": "Atriz Neusa Borges é internada com pneumonia aos 84 anos no Rio",
    "f": 2,
    "u": false
   },
   {
-   "t": "Ataque a tiros perto da Casa Branca termina com dois mortos",
+   "t": "Terremoto de magnitude 5,8 atinge o Peru, dizem agências",
    "f": 2,
    "u": true
   },
   {
-   "t": "Trump sugere que Tim Cook, da Apple, substitua Huang como CEO da Nvidia",
+   "t": "Moraes e Dino votam para manter início da escala 5×2 em 16 de dezembro",
    "f": 2,
    "u": false
   },
   {
-   "t": "Mais 1,8 mil escolas recebem falsas ameaças de bomba na Itália",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "MP da Paraíba prevê gastos de mais de R$ 12 milhões com iPhones 18 Pro Max",
+   "t": "PM é condenado a 12 anos por morte com tiro de fuzil de morador de rua já rendido em SP",
    "f": 2,
    "u": false
   }
