@@ -1,79 +1,79 @@
 {
- "edicao": "13/11",
+ "edicao": "14/11",
  "total": 15,
  "itens": [
   {
-   "t": "Senado aprova pacote de ajuste fiscal do governo Lula",
+   "t": "Mais de 4 mil voos são cancelados nos EUA neste sábado (14)",
+   "f": 5,
+   "u": false
+  },
+  {
+   "t": "Microsoft diz que serviços foram restabelecidos após pane de mais de 30 horas",
    "f": 3,
    "u": false
   },
   {
-   "t": "Ajuste fiscal não é incompatível com promessas do governo Lula 4, diz André Esteves",
+   "t": "EUA propõem que Ucrânia perca território para Rússia em troca de entrada na Otan, diz Zelenski",
    "f": 3,
    "u": false
   },
   {
-   "t": "Incêndio atinge fábrica de tintas em Salto (SP) e deixa ao menos 9 feridos",
-   "f": 3,
-   "u": true
-  },
-  {
-   "t": "Morre a cantora Claudette Soares, aos 91 anos",
+   "t": "'Meu irmão morreu ao recusar transfusão de sangue por ser testemunha de Jeová; pouco depois, eliminaram a proibição'",
    "f": 3,
    "u": false
   },
   {
-   "t": "'Há uma guerra entre dois lados no Vaticano em que o abuso sexual se tornou uma arma', diz autor de livro sobre o papa",
+   "t": "EUA liberam decolagens no país após horas de paralisação nacional de voos",
+   "f": 3,
+   "u": false
+  },
+  {
+   "t": "Navio atinge e vira barco de cruzeiro com 197 pessoas em Nova Orleans",
    "f": 2,
    "u": false
   },
   {
-   "t": "Salto: fábrica de solventes no interior de SP é atingida por incêndio",
+   "t": "Jensen Huang, da Nvidia, é convocado por Senado dos EUA",
    "f": 2,
    "u": false
   },
   {
-   "t": "Ex de Bruno Avelar, morto em acidente com Rick, desabafa sobre herança",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "O que se sabe sobre a falha mundial de serviços da Microsoft",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Funcionários da Kalunga sofrem ataque a tiros após expediente em Santos",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Quem é Léo Fuchs e por que ele reunirá tantos famosos em seu casamento",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Sheinbaum diz que não há mais nenhuma caravana de imigrantes rumo aos EUA",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Atriz Neusa Borges é internada com pneumonia aos 84 anos no Rio",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Terremoto de magnitude 5,8 atinge o Peru, dizem agências",
+   "t": "Enem: confira os horários e o que levar no segundo dia de prova",
    "f": 2,
    "u": true
   },
   {
-   "t": "Moraes e Dino votam para manter início da escala 5×2 em 16 de dezembro",
+   "t": "Brasil perde para o Japão com gol nos acréscimos: 3 a 2",
    "f": 2,
    "u": false
   },
   {
-   "t": "PM é condenado a 12 anos por morte com tiro de fuzil de morador de rua já rendido em SP",
+   "t": "Paraguai: ex-presidente é acusado de associação criminosa",
+   "f": 2,
+   "u": true
+  },
+  {
+   "t": "Bella Campos confirma namoro com modelo Thalita Ferreira",
+   "f": 2,
+   "u": false
+  },
+  {
+   "t": "Seleção: Raphinha pede desculpas por expulsão em derrota para o Japão",
+   "f": 2,
+   "u": false
+  },
+  {
+   "t": "Ancelotti e Raphinha são expulsos e desfalcam Brasil contra Singapura",
+   "f": 2,
+   "u": false
+  },
+  {
+   "t": "Morre Rogério Fróes, ator de “O Bem-Amado”, aos 92 anos",
+   "f": 2,
+   "u": false
+  },
+  {
+   "t": "Reunião inédita de Trump, Xi e Putin abordará não proliferação nuclear",
    "f": 2,
    "u": false
   }
