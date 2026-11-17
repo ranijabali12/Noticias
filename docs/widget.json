@@ -1,79 +1,79 @@
 {
- "edicao": "16/11",
+ "edicao": "17/11",
  "total": 15,
  "itens": [
   {
-   "t": "Dólar hoje sobe 2% e vai a R$ 5,77, maior valor desde abril de 2025, com risco fiscal",
+   "t": "Alcolumbre e Motta pedem a Moraes que libere julgamento da Lei da Dosimetria",
+   "f": 6,
+   "u": false
+  },
+  {
+   "t": "Na expectativa de votar ajuste fiscal na Câmara, governo retira urgência de projeto sobre criminalização de bets",
+   "f": 4,
+   "u": true
+  },
+  {
+   "t": "EUA, México e Bolívia perdem status de países livres do sarampo",
    "f": 4,
    "u": false
   },
   {
-   "t": "Robert Pattinson é confirmado como 7º James Bond",
-   "f": 4,
-   "u": false
-  },
-  {
-   "t": "EUA incluem Brasil em lista de países com restrições para comprar chips para data centers",
-   "f": 4,
-   "u": false
-  },
-  {
-   "t": "Defesa de Carla Zambelli pede retirada de nome da lista da Interpol",
+   "t": "Pacote fiscal é o ‘primeiro passo’ para ajuste gradual, afirma Durigan",
    "f": 3,
    "u": false
   },
   {
-   "t": "Falha em foguete de empresa da Boeing destrói 40 satélites da Amazon",
+   "t": "Corinthians entra com pedido de proteção contra credores e tenta renegociar dívidas de R$ 2,8 bi",
    "f": 3,
    "u": false
   },
   {
-   "t": "Ruas confirma nome de diretor do governo do PR como secretário de Educação",
+   "t": "Quem é Colette Kress, CEO interina da Nvidia após saída de Jensen Huang",
+   "f": 3,
+   "u": true
+  },
+  {
+   "t": "STJ dá 90 dias para Buzzi desocupar imóvel funcional em Brasília",
+   "f": 3,
+   "u": false
+  },
+  {
+   "t": "De Batman a James Bond: as pistas sobre o que esperar do 007 de Robert Pattinson",
+   "f": 3,
+   "u": false
+  },
+  {
+   "t": "Santa Catarina flexibiliza medidas contra a Doença de Newcastle",
    "f": 2,
    "u": false
   },
   {
-   "t": "Moraes barra visita de Rogério Marinho e Tereza Cristina a Bolsonaro",
+   "t": "STF inaugura escultura Oxê de Xangô; entenda o que o símbolo significa",
    "f": 2,
    "u": false
   },
   {
-   "t": "Justiça dos EUA marca novo julgamento de Lindsay Clancy, acusada de matar os três filhos",
+   "t": "Putin chega à China antes de trilateral histórica com Xi Jinping e Trump",
+   "f": 2,
+   "u": true
+  },
+  {
+   "t": "Sete PMs vão a júri por morte de Davi Fiúza, de 16 anos, desaparecido na Bahia após abordagem",
    "f": 2,
    "u": false
   },
   {
-   "t": "Grupo de países da UE negocia centro para deportados em Ruanda",
+   "t": "O que Putin exige da Otan e da Europa",
    "f": 2,
    "u": false
   },
   {
-   "t": "O formato do ajuste fiscal importa",
+   "t": "Senado aprova ajuste fiscal que limita uso de créditos tributários por empresas",
    "f": 2,
    "u": false
   },
   {
-   "t": "EUA podem perder status de país livre do sarampo",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Apple é investigada no Cade por barrar PIX por aproximação no iPhone; entenda a disputa",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Fim de uma era: seleção alemã se despede da Adidas",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Santarém abre programação do Mês da Consciência Negra com debate sobre racismo estrutural",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "O que se sabe sobre a reunião para a ‘paz mundial’ que reunirá Trump, Xi e Putin",
+   "t": "Rede interna de comunicações secreta dos EUA sai do ar, diz emissora",
    "f": 2,
    "u": false
   }
