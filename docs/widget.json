@@ -1,79 +1,79 @@
 {
- "edicao": "19/11",
+ "edicao": "20/11",
  "total": 15,
  "itens": [
   {
-   "t": "Lula exonera Wellington Dias, ministro do Desenvolvimento Social",
+   "t": "A pedido de Mendonça, Fachin retira sigilo de relatório da PF sobre o ministro e Vorcaro",
    "f": 6,
    "u": false
   },
   {
-   "t": "Tribunal da ONU conclui que Mianmar cometeu genocídio contra minoria muçulmana",
-   "f": 5,
+   "t": "Quem era Gabriel Félix, influenciador que morreu aos 29 anos",
+   "f": 4,
    "u": false
   },
   {
-   "t": "Fachin mantém prisão preventiva de primo de Vorcaro",
-   "f": 5,
+   "t": "Moraes vota para manter passaportes de Flávio Bolsonaro cancelados",
+   "f": 4,
+   "u": false
+  },
+  {
+   "t": "Tempestade deixa um morto no interior do Rio Grande do Sul",
+   "f": 4,
+   "u": false
+  },
+  {
+   "t": "Fachin rejeita pedido da defesa e mantém prisão preventiva de Vorcaro",
+   "f": 3,
    "u": true
   },
   {
-   "t": "iFood informa vazamento de dados de clientes, entregadores e restaurantes",
-   "f": 3,
-   "u": false
-  },
-  {
-   "t": "Justiça derruba liminar e volta a permitir compra de iPhones pelo Senado",
-   "f": 3,
-   "u": false
-  },
-  {
-   "t": "Lula assina decreto que regulamenta o fim da escala 6x1, com hora extra mais cara",
-   "f": 3,
-   "u": false
-  },
-  {
-   "t": "Dólar avança e Ibovespa recua em meio à expectativa por ajuste fiscal",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Dia da Consciência Negra: veja o que abre e o que fecha no feriado",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Senado encomenda novo retrato de Alcolumbre por R$ 11,4 mil",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Anthropic atinge US$ 2 trilhões em valor de mercado em estreia na Nasdaq",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Lula anuncia ministério dos idosos e caminha para a maior Esplanada da história",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Criminalidade custa R$ 440 bilhões ao Brasil e consome 3,5% do PIB, diz estudo",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Trump, Xi e Putin participam de inédita reunião trilateral",
+   "t": "Arábia Saudita ataca porto controlado pelos houthis no Iêmen",
    "f": 2,
    "u": true
   },
   {
-   "t": "Lula diz que vai avançar com demarcação de terra indígena de cacique Raoni",
+   "t": "Como 20 de novembro se tornou o Dia da Consciência Negra",
    "f": 2,
    "u": false
   },
   {
-   "t": "Trinta países aderiram à Declaração de Combate ao Racismo Ambiental",
+   "t": "Turista é morto após reagir a assalto no centro do Rio de Janeiro",
+   "f": 2,
+   "u": false
+  },
+  {
+   "t": "Trump diz que não permitirá a empresas construir data centers fora dos EUA",
+   "f": 2,
+   "u": false
+  },
+  {
+   "t": "Cleitinho diz que buscará Lula para negociar dívida de Minas Gerais",
+   "f": 2,
+   "u": false
+  },
+  {
+   "t": "A viagem de 8 anos que levou sonda a 'planeta misterioso' do Sistema Solar",
+   "f": 2,
+   "u": false
+  },
+  {
+   "t": "Dino vota para tornar Juscelino Filho réu por suspeita de desvio de emendas",
+   "f": 2,
+   "u": false
+  },
+  {
+   "t": "O potencial da IA e outras conclusões sobre reunião entre Trump, Xi e Putin",
+   "f": 2,
+   "u": false
+  },
+  {
+   "t": "Combustíveis fósseis: o que são e por que importam",
+   "f": 2,
+   "u": false
+  },
+  {
+   "t": "COP31: Grupo de países pede ‘transição clara’ para abandonar combustíveis fósseis",
    "f": 2,
    "u": false
   }
