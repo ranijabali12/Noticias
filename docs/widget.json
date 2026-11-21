@@ -1,79 +1,79 @@
 {
- "edicao": "20/11",
+ "edicao": "21/11",
  "total": 15,
  "itens": [
   {
-   "t": "A pedido de Mendonça, Fachin retira sigilo de relatório da PF sobre o ministro e Vorcaro",
-   "f": 6,
-   "u": false
+   "t": "Moraes atende a pedido e autoriza visitas diárias de filhos a Bolsonaro durante a internação",
+   "f": 8,
+   "u": true
   },
   {
-   "t": "Quem era Gabriel Félix, influenciador que morreu aos 29 anos",
+   "t": "Tempestade no Rio Grande do Sul afeta 19,6 mil pessoas em 33 cidades",
    "f": 4,
    "u": false
   },
   {
-   "t": "Moraes vota para manter passaportes de Flávio Bolsonaro cancelados",
-   "f": 4,
-   "u": false
-  },
-  {
-   "t": "Tempestade deixa um morto no interior do Rio Grande do Sul",
-   "f": 4,
-   "u": false
-  },
-  {
-   "t": "Fachin rejeita pedido da defesa e mantém prisão preventiva de Vorcaro",
+   "t": "Terremoto de magnitude 6.7 atinge o Peru",
    "f": 3,
-   "u": true
+   "u": false
   },
   {
-   "t": "Arábia Saudita ataca porto controlado pelos houthis no Iêmen",
-   "f": 2,
-   "u": true
+   "t": "'O câncer muda você': princesa Kate fala sobre doença em documentário da BBC",
+   "f": 3,
+   "u": false
   },
   {
-   "t": "Como 20 de novembro se tornou o Dia da Consciência Negra",
+   "t": "“Cidade mais assolada que já vi”, diz bombeiro sobre Tupanciretã, no RS",
    "f": 2,
    "u": false
   },
   {
-   "t": "Turista é morto após reagir a assalto no centro do Rio de Janeiro",
+   "t": "Lula diz ficar triste com críticas da esquerda ao ajuste fiscal",
    "f": 2,
    "u": false
   },
   {
-   "t": "Trump diz que não permitirá a empresas construir data centers fora dos EUA",
+   "t": "Miss Universo 2026: Com 40 mil cristais, traje típico da Miss Brasil homenageia o guaraná",
    "f": 2,
    "u": false
   },
   {
-   "t": "Cleitinho diz que buscará Lula para negociar dívida de Minas Gerais",
+   "t": "UE propõe imposto de 3% sobre faturamento das big techs",
    "f": 2,
    "u": false
   },
   {
-   "t": "A viagem de 8 anos que levou sonda a 'planeta misterioso' do Sistema Solar",
+   "t": "Morre Joe Wallach, um dos fundadores da Globo e da Globosat, aos 103 anos",
    "f": 2,
    "u": false
   },
   {
-   "t": "Dino vota para tornar Juscelino Filho réu por suspeita de desvio de emendas",
+   "t": "Morre EJ Carroll, ator de “Law & Order”, aos 66 anos, diz site",
    "f": 2,
    "u": false
   },
   {
-   "t": "O potencial da IA e outras conclusões sobre reunião entre Trump, Xi e Putin",
+   "t": "Lula presta solidariedade à cidade gaúcha devastada por tempestade",
    "f": 2,
    "u": false
   },
   {
-   "t": "Combustíveis fósseis: o que são e por que importam",
+   "t": "México captura narcotraficante que está entre os dez mais procurados pelo FBI",
    "f": 2,
    "u": false
   },
   {
-   "t": "COP31: Grupo de países pede ‘transição clara’ para abandonar combustíveis fósseis",
+   "t": "Tempestade em Tupanciretã: sobe para quatro o número de mortos no RS",
+   "f": 2,
+   "u": false
+  },
+  {
+   "t": "Lula defende pacote fiscal: sistema financeiro não me ensinará a dirigir o País",
+   "f": 2,
+   "u": false
+  },
+  {
+   "t": "Lula reage a críticas da esquerda ao ajuste fiscal e ataca “yuppies da Faria Lima”",
    "f": 2,
    "u": false
   }
