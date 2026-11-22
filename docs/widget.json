@@ -1,79 +1,79 @@
 {
- "edicao": "21/11",
+ "edicao": "22/11",
  "total": 15,
  "itens": [
   {
-   "t": "Moraes atende a pedido e autoriza visitas diárias de filhos a Bolsonaro durante a internação",
-   "f": 8,
+   "t": "COP31 termina sem acordo após divergências sobre combustíveis fósseis",
+   "f": 7,
+   "u": false
+  },
+  {
+   "t": "Bolsonaro está na UTI e tem quadro estável, diz novo boletim médico",
+   "f": 5,
    "u": true
   },
   {
-   "t": "Tempestade no Rio Grande do Sul afeta 19,6 mil pessoas em 33 cidades",
-   "f": 4,
-   "u": false
-  },
-  {
-   "t": "Terremoto de magnitude 6.7 atinge o Peru",
+   "t": "Moraes autorizou retirada de tornozeleira de Bolsonaro durante internação",
    "f": 3,
    "u": false
   },
   {
-   "t": "'O câncer muda você': princesa Kate fala sobre doença em documentário da BBC",
-   "f": 3,
-   "u": false
-  },
-  {
-   "t": "“Cidade mais assolada que já vi”, diz bombeiro sobre Tupanciretã, no RS",
+   "t": "Por que grande parte da fibra que seu corpo precisa acaba no lixo (e como aproveitá-la melhor em suas refeições)",
    "f": 2,
    "u": false
   },
   {
-   "t": "Lula diz ficar triste com críticas da esquerda ao ajuste fiscal",
+   "t": "Vídeo: homem morre e 14 ficam feridos em tiroteio no litoral de SP",
    "f": 2,
    "u": false
   },
   {
-   "t": "Miss Universo 2026: Com 40 mil cristais, traje típico da Miss Brasil homenageia o guaraná",
+   "t": "Chitãozinho & Xororó anunciam aposentadoria dos palcos aos 56 anos da dupla",
    "f": 2,
    "u": false
   },
   {
-   "t": "UE propõe imposto de 3% sobre faturamento das big techs",
+   "t": "EUA buscam respostas sobre vendas de chips da Nvidia a China, diz Bessent",
    "f": 2,
    "u": false
   },
   {
-   "t": "Morre Joe Wallach, um dos fundadores da Globo e da Globosat, aos 103 anos",
+   "t": "Michelle retorna ao Brasil após internação de Bolsonaro",
+   "f": 2,
+   "u": true
+  },
+  {
+   "t": "Morre Paolo Bulgari, que transformou negócio da família em marca de luxo",
    "f": 2,
    "u": false
   },
   {
-   "t": "Morre EJ Carroll, ator de “Law & Order”, aos 66 anos, diz site",
+   "t": "Após temporal, governo reconhece calamidade pública em Tupanciretã",
    "f": 2,
    "u": false
   },
   {
-   "t": "Lula presta solidariedade à cidade gaúcha devastada por tempestade",
+   "t": "Miley Cyrus se casa com Maxx Morando em cerimônia nos EUA; veja detalhes",
    "f": 2,
    "u": false
   },
   {
-   "t": "México captura narcotraficante que está entre os dez mais procurados pelo FBI",
+   "t": "Rose Miriam faz homenagem 7 anos após morte de Gugu: “Saudade nunca acaba”",
    "f": 2,
    "u": false
   },
   {
-   "t": "Tempestade em Tupanciretã: sobe para quatro o número de mortos no RS",
+   "t": "Por que aplaudir durante o pouso de um avião pode irritar as pessoas, segundo especialistas",
    "f": 2,
    "u": false
   },
   {
-   "t": "Lula defende pacote fiscal: sistema financeiro não me ensinará a dirigir o País",
+   "t": "Os 20 melhores destinos de viagem em 2027",
    "f": 2,
    "u": false
   },
   {
-   "t": "Lula reage a críticas da esquerda ao ajuste fiscal e ataca “yuppies da Faria Lima”",
+   "t": "China critica decisão dos EUA que afeta empresas de telecomunicações",
    "f": 2,
    "u": false
   }
