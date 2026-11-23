@@ -1,79 +1,79 @@
 {
- "edicao": "22/11",
+ "edicao": "23/11",
  "total": 15,
  "itens": [
   {
-   "t": "COP31 termina sem acordo após divergências sobre combustíveis fósseis",
-   "f": 7,
-   "u": false
-  },
-  {
-   "t": "Bolsonaro está na UTI e tem quadro estável, diz novo boletim médico",
-   "f": 5,
+   "t": "Câmara deve votar nesta segunda-feira (23) projeto de ajuste fiscal do governo",
+   "f": 4,
    "u": true
   },
   {
-   "t": "Moraes autorizou retirada de tornozeleira de Bolsonaro durante internação",
+   "t": "Nvidia anuncia volta de Jensen Huang como CEO",
+   "f": 4,
+   "u": true
+  },
+  {
+   "t": "CVM suspende registro do BRB e de mais quatro empresas",
+   "f": 4,
+   "u": false
+  },
+  {
+   "t": "Moraes manda intimar Flávio Bolsonaro por edital em caso de suposta calúnia contra Lula",
+   "f": 4,
+   "u": false
+  },
+  {
+   "t": "Fifa anuncia países-sede das Copas do Mundo femininas de 2031 e 2035",
    "f": 3,
    "u": false
   },
   {
-   "t": "Por que grande parte da fibra que seu corpo precisa acaba no lixo (e como aproveitá-la melhor em suas refeições)",
+   "t": "Deputada de SP diz que foi detida e deportada por Israel ao tentar entrar na Cisjordânia",
+   "f": 3,
+   "u": false
+  },
+  {
+   "t": "Trump teria articulado retorno de Jensen Huang ao comando da Nvidia",
+   "f": 3,
+   "u": false
+  },
+  {
+   "t": "Bolsonaro continuará internado na UTI por dores abdominais e pneumonia; médicos descartam cirurgia neste momento",
+   "f": 3,
+   "u": false
+  },
+  {
+   "t": "Durigan diz que ajuste fiscal é necessário para juros voltarem a patamar ‘mais civilizado’",
+   "f": 3,
+   "u": true
+  },
+  {
+   "t": "AGU defende dispensa de liminar de Dino sobre escala 5x2",
+   "f": 3,
+   "u": false
+  },
+  {
+   "t": "Braskem fecha acordo com credores para capitalização de US$ 4,9 bilhões",
    "f": 2,
    "u": false
   },
   {
-   "t": "Vídeo: homem morre e 14 ficam feridos em tiroteio no litoral de SP",
+   "t": "Fachin envia relatório à PGR e abre caminho para Gilmar Mendes no caso Master",
    "f": 2,
    "u": false
   },
   {
-   "t": "Chitãozinho & Xororó anunciam aposentadoria dos palcos aos 56 anos da dupla",
+   "t": "Após bater R$ 6, dólar fecha em leve queda com indicações ao BC no radar",
    "f": 2,
    "u": false
   },
   {
-   "t": "EUA buscam respostas sobre vendas de chips da Nvidia a China, diz Bessent",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Michelle retorna ao Brasil após internação de Bolsonaro",
+   "t": "Dólar dispara a R$ 6 enquanto mercado aguarda votação do ajuste fiscal de Lula",
    "f": 2,
    "u": true
   },
   {
-   "t": "Morre Paolo Bulgari, que transformou negócio da família em marca de luxo",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Após temporal, governo reconhece calamidade pública em Tupanciretã",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Miley Cyrus se casa com Maxx Morando em cerimônia nos EUA; veja detalhes",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Rose Miriam faz homenagem 7 anos após morte de Gugu: “Saudade nunca acaba”",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Por que aplaudir durante o pouso de um avião pode irritar as pessoas, segundo especialistas",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Os 20 melhores destinos de viagem em 2027",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "China critica decisão dos EUA que afeta empresas de telecomunicações",
+   "t": "Governo fiscalizará empresas nos primeiros 90 dias do fim da 6 X 1",
    "f": 2,
    "u": false
   }
