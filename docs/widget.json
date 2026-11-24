@@ -1,79 +1,79 @@
 {
- "edicao": "23/11",
+ "edicao": "24/11",
  "total": 15,
  "itens": [
   {
-   "t": "Câmara deve votar nesta segunda-feira (23) projeto de ajuste fiscal do governo",
-   "f": 4,
-   "u": true
+   "t": "Lula sanciona ajuste fiscal sem vetos horas após aprovação pela Câmara",
+   "f": 6,
+   "u": false
   },
   {
-   "t": "Nvidia anuncia volta de Jensen Huang como CEO",
-   "f": 4,
-   "u": true
-  },
-  {
-   "t": "CVM suspende registro do BRB e de mais quatro empresas",
+   "t": "Nunes Marques é definido relator de pedido de Vorcaro para retirar caso Master do gabinete da presidência do STF",
    "f": 4,
    "u": false
   },
   {
-   "t": "Moraes manda intimar Flávio Bolsonaro por edital em caso de suposta calúnia contra Lula",
+   "t": "Julgamento de extradição de Zambelli é adiado novamente na Itália",
+   "f": 4,
+   "u": true
+  },
+  {
+   "t": "Papa Francisco relatou em diário ter visto o diabo e superado crise espiritual",
    "f": 4,
    "u": false
   },
   {
-   "t": "Fifa anuncia países-sede das Copas do Mundo femininas de 2031 e 2035",
-   "f": 3,
-   "u": false
-  },
-  {
-   "t": "Deputada de SP diz que foi detida e deportada por Israel ao tentar entrar na Cisjordânia",
-   "f": 3,
-   "u": false
-  },
-  {
-   "t": "Trump teria articulado retorno de Jensen Huang ao comando da Nvidia",
-   "f": 3,
-   "u": false
-  },
-  {
-   "t": "Bolsonaro continuará internado na UTI por dores abdominais e pneumonia; médicos descartam cirurgia neste momento",
-   "f": 3,
-   "u": false
-  },
-  {
-   "t": "Durigan diz que ajuste fiscal é necessário para juros voltarem a patamar ‘mais civilizado’",
-   "f": 3,
+   "t": "Bolsonaro tem melhora clínica discreta, mas permanece na UTI sem previsão de alta",
+   "f": 4,
    "u": true
   },
   {
-   "t": "AGU defende dispensa de liminar de Dino sobre escala 5x2",
+   "t": "Justiça condena 2 por incêndio que matou 10 jovens no Ninho do Urubu",
    "f": 3,
    "u": false
   },
   {
-   "t": "Braskem fecha acordo com credores para capitalização de US$ 4,9 bilhões",
+   "t": "Saiba como fazer figurinha com áudio no WhatsApp",
+   "f": 3,
+   "u": false
+  },
+  {
+   "t": "Moraes rejeita pedido para descontar prisão na Itália de pena de Zambelli",
+   "f": 3,
+   "u": false
+  },
+  {
+   "t": "Brasil terá recessão se Lula não fizer ajuste fiscal mais robusto, diz Eduardo Giannetti",
+   "f": 3,
+   "u": false
+  },
+  {
+   "t": "Por que Trump pressionou pela volta de Jensen Huang à chefia da Nvidia",
+   "f": 3,
+   "u": false
+  },
+  {
+   "t": "Petrobras projeta investir US$ 122 bilhões em petróleo até 2031",
    "f": 2,
    "u": false
   },
   {
-   "t": "Fachin envia relatório à PGR e abre caminho para Gilmar Mendes no caso Master",
+   "t": "Copa América de 2028 será disputada nos EUA",
    "f": 2,
    "u": false
   },
   {
-   "t": "Após bater R$ 6, dólar fecha em leve queda com indicações ao BC no radar",
+   "t": "Árvore cai em escola em São Paulo e deixa sete feridos, incluindo crianças",
    "f": 2,
    "u": false
   },
   {
-   "t": "Dólar dispara a R$ 6 enquanto mercado aguarda votação do ajuste fiscal de Lula",
+   "t": "Jensen Huang diz que ainda não acredita em plano de sucessão na Nvidia",
    "f": 2,
    "u": true
   },
   {
-   "t": "Governo fiscalizará empresas nos primeiros 90 dias do fim da 6 X 1",
+   "t": "Ministros articulam PEC para frear gastos obrigatórios, diz jornal",
    "f": 2,
    "u": false
   }
