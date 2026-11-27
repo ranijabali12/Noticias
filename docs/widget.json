@@ -1,79 +1,79 @@
 {
- "edicao": "26/11",
+ "edicao": "27/11",
  "total": 15,
  "itens": [
   {
-   "t": "Espanhol Pablo Hernández de Cos é escolhido para presidir o Banco Central Europeu",
+   "t": "Argentina aprova lei contra bets, que proíbe patrocínio no esporte",
+   "f": 4,
+   "u": false
+  },
+  {
+   "t": "Lula diz que não pode gastar dinheiro à toa no governo",
+   "f": 4,
+   "u": false
+  },
+  {
+   "t": "“Também não gostei”: Nunes manda trocar enfeites de Natal em SP",
    "f": 3,
    "u": false
   },
   {
-   "t": "Macron diz que carne brasileira é “dopada”; associações respondem",
+   "t": "Fachin prorroga por 60 dias investigação da PF sobre filme Dark Horse",
    "f": 3,
    "u": false
   },
   {
-   "t": "Lula sinaliza apoio à gestão de Cleitinho em Minas Gerais",
-   "f": 2,
+   "t": "Fachin mantém prisão do ex-presidente do BRB",
+   "f": 3,
    "u": true
   },
   {
-   "t": "Cientistas encontram dezenas de espécies potencialmente novas em montanhas da Amazônia",
+   "t": "Contas do governo têm superávit de R$ 52,3 bilhões em outubro",
+   "f": 3,
+   "u": true
+  },
+  {
+   "t": "Os caminhoneiros que se arriscam e ganham pouco para entregar suas compras na Black Friday",
+   "f": 3,
+   "u": false
+  },
+  {
+   "t": "'INSS do Reino Unido' tem site retirado do ar após 'incidente cibernético'",
    "f": 2,
    "u": false
   },
   {
-   "t": "Passageiro tenta abrir porta de avião e voo é desviado nos EUA; veja VÍDEO",
+   "t": "Ucrânia apresenta proposta de trégua no Mar Negro à Rússia, diz ministro",
    "f": 2,
    "u": false
   },
   {
-   "t": "Cleitinho diz que teve conversa 'cordial' com Lula e que vai apresentar nova proposta de pagamento da dívida de MG",
+   "t": "Moraes autoriza Mauro Cid a cumprir pena no RJ",
    "f": 2,
    "u": false
   },
   {
-   "t": "Entenda operação que investiga fraude bilionária envolvendo o Grupo Fictor",
+   "t": "Putin apresenta novo submarino nuclear e promete modernizar marinha russa",
    "f": 2,
    "u": false
   },
   {
-   "t": "'Dracarys': por que as explosões do Ibama são contestadas na Justiça - depois de terem virado até meme",
+   "t": "Brasil tem 387 mil crianças e adolescentes em união conjugal",
    "f": 2,
    "u": false
   },
   {
-   "t": "Espanha avalia risco ambiental após navio-tanque com 7 mil toneladas de diesel virar perto de Ibiza",
+   "t": "De fim dos supersalários a previdência de militares: o que Durigan pensou para 2027 e agora deixa para Trabuco",
    "f": 2,
    "u": false
   },
   {
-   "t": "Michelle Bolsonaro reage a memes de sardinha à parmegiana",
+   "t": "Lula acerta permanência de Bruno Moretti no Ministério do Planejamento, dizem aliados",
    "f": 2,
    "u": false
   },
   {
-   "t": "Estela vê omissão do TSE e diz que defesa de mulheres é “da boca para fora”",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Neymar é o jogador mais caçado do Brasileirão; entenda",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "CMO aprova relatório preliminar do PLOA 2027, com R$ 44 bi em emendas",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Alckmin trata possível tarifa a aviões do Brasil como “descabida”",
-   "f": 2,
-   "u": false
-  },
-  {
-   "t": "Preço das passagens aéreas cai 9,57%, mas IPCA sobe em novembro",
+   "t": "Governo e produtores repudiam Macron por chamar carne brasileira de “dopada”",
    "f": 2,
    "u": false
   }
